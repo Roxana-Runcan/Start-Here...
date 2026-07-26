@@ -1,4 +1,16 @@
-## Hi there 👋
+# Roxana Runcan - Data Analyst Portfolio 
+
+## About
+
+⚡ A Bit About Me:	 
+
+
+-  Discovered the data analytics field as I was managing a café in Berlin during the pandemic and I was hooked
+-  I'm naturally curious
+-  Love a good cup of filter coffee
+-  Have an interest in trading futures markets
+-  Cats are the best!
+Hi there 👋
 
 I'm Roxana, a data analyst based in Germany.
 
@@ -20,26 +32,24 @@ Currently engaged in NGO data projects via CorrelAid.
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
-⚡ A Bit About Me:	 
--
+You can find my CV [here](jhdw).
 
 
--  Discovered the data analytics field as I was managing a café in Berlin during the pandemic and I was hooked
--  I'm naturally curious
--  Love a good cup of filter coffee
--  Have an interest in trading futures markets
--  Cats are the best!
-<!--
-**runcanroxana-droid/runcanroxana-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+   - SQL
+      - [Sales Opportunities in the U.S. Market](njh)
+      - [Customer Churn Analysis on Bank Records](njh)
+   - Tableau
+       - projects [here](jkfjdfkd)
+   - Python
+      - updating..
+- [Certificates](jnbj)
+- [Contact](#contact)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm naturally curious 
--->
+
+## Contact 
+- LinkedIn : [@roxanaruncan](https://www.linkedin.com/in/roxana-r-300a9a253/)
+- Email: runcanroxana@gmail.com
