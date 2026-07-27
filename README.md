@@ -1,17 +1,10 @@
-# Roxana Runcan - Data Analyst Portfolio 
+# Roxana Runcan - Data Analyst 
 
-## About
 
-  Hi, I’m Roxana, a self-taught data analyst based in Berlin. My background is in gastronomy, where I gained firsthand experience working closely with customers and managing day to day operations as a store manager.
+Hi there, I’m Roxana, a self-taught data analyst based in Berlin. 
+My main project portfolio repository, with all relevant information, is attached in this README.
 
-During a challenging period for businesses, I was introduced to the world of analytics and began to see the value of making decisions based on patterns and data rather than emotions or 'gut-feeling' alone. What started as curiosity soon became a deeper interest in how data can support clearer, more informed decision-making.
-
-Since then, I’ve continued building my technical skills and exploring tools that help uncover insights and aid in decision making. 
-I am also currently engaged in NGO data projects through [CorrelAid](https://correlaid.org/), where I continue to strengthen my experience working with real-world data in meaningful contexts.
-
-I’m now excited to bring my growing expertise into a junior data role and contribute with both analytical thinking and practical business experience.
-
-You can find my CV [here](jhdw).
+You can find my projects repository [here](https://github.com/Roxana-Runcan/Project-Portfolio-Roxana-Runcan/blob/main/README.md).
 
  🧰 Tools & Tech:
  -
@@ -26,26 +19,7 @@ You can find my CV [here](jhdw).
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
-
-
-
-## Table of Contents
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-   - SQL
-      - [Sales Opportunities in the U.S. Market](njh)
-      - [Customer Churn Analysis on Bank Records](njh)
-   - Tableau
-       - projects [here](jkfjdfkd)
-   - Python
-      - updating..
-- [Certificates](jnbj)
-- [Contact](#contact)
-
-#Certificates
-- Practical experience is often the most effective way of demonstrating skill, but sometimes certificates can support in additionally validating this experience.
-    - [Data Analyst Roadmap](file:///Users/runcanroxana/Desktop/Roxana-Loredana%20Runcan%20-%20Data%20Analyst%20Roadmap%20Certificate.pdf) (An intensive bootcamp designed to build all Data analyst essential skills)
-
 ## Contact 
 - LinkedIn : [@roxanaruncan](https://www.linkedin.com/in/roxana-r-300a9a253/)
 - Email: runcanroxana@gmail.com
+
