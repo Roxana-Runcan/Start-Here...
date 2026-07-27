@@ -11,6 +11,7 @@ I am also currently engaged in NGO data projects through [CorrelAid](https://cor
 
 I’m now excited to bring my growing expertise into a junior data role and contribute with both analytical thinking and practical business experience.
 
+You can find my CV [here](jhdw).
 
  🧰 Tools & Tech:
  -
@@ -25,7 +26,7 @@ I’m now excited to bring my growing expertise into a junior data role and cont
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
-You can find my CV [here](jhdw).
+
 
 
 ## Table of Contents
@@ -41,7 +42,9 @@ You can find my CV [here](jhdw).
 - [Certificates](jnbj)
 - [Contact](#contact)
 
-
+#Certificates
+- Practical experience is often the most effective way of demonstrating skill, but sometimes certificates can support in additionally validating this experience.
+    - [Data Analyst Roadmap](file:///Users/runcanroxana/Desktop/Roxana-Loredana%20Runcan%20-%20Data%20Analyst%20Roadmap%20Certificate.pdf) (An intensive bootcamp designed to build all Data analyst essential skills)
 
 ## Contact 
 - LinkedIn : [@roxanaruncan](https://www.linkedin.com/in/roxana-r-300a9a253/)
