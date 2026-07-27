@@ -2,21 +2,14 @@
 
 ## About
 
-⚡ A Bit About Me:	 
+  Hi, I’m Roxana, a self-taught data analyst based in Berlin. My background is in gastronomy, where I gained firsthand experience working closely with customers and managing day to day operations as a store manager.
 
+During a challenging period for businesses, I was introduced to the world of analytics and began to see the value of making decisions based on patterns and data rather than emotions or 'gut-feeling' alone. What started as curiosity soon became a deeper interest in how data can support clearer, more informed decision-making.
 
--  Discovered the data analytics field as I was managing a café in Berlin during the pandemic and I was hooked
--  I'm naturally curious
--  Love a good cup of filter coffee
--  Have an interest in trading futures markets
--  Cats are the best!
-Hi there 👋
+Since then, I’ve continued building my technical skills and exploring tools that help uncover insights and aid in decision making. 
+I am also currently engaged in NGO data projects through [CorrelAid](https://correlaid.org/), where I continue to strengthen my experience working with real-world data in meaningful contexts.
 
-I'm Roxana, a data analyst based in Germany.
-
-I collect, clean and analyze data, aiding organizations in the decision-making process.
-
-Currently engaged in NGO data projects via CorrelAid.
+I’m now excited to bring my growing expertise into a junior data role and contribute with both analytical thinking and practical business experience.
 
 
  🧰 Tools & Tech:
