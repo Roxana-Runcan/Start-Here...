@@ -1,7 +1,7 @@
 # Roxana Runcan - Data Analyst 
 
 
-Hi there, I’m Roxana, a self-taught data analyst based in Berlin. 
+Hi there, I’m Roxana, a data analyst based in Berlin. 
 My main project portfolio repository, with all relevant information, is attached in this README.
 
 You can find my projects repository [here](https://github.com/Roxana-Runcan/Project-Portfolio-Roxana-Runcan/blob/main/README.md).
@@ -22,4 +22,5 @@ You can find my projects repository [here](https://github.com/Roxana-Runcan/Proj
 ## Contact 
 - LinkedIn : [@roxanaruncan](https://www.linkedin.com/in/roxana-r-300a9a253/)
 - Email: runcanroxana@gmail.com
+- Portfolio : [GitHub](https://github.com/Roxana-Runcan/Project-Portfolio-Roxana-Runcan)
 
